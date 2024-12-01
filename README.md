@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### **Task: Exam Portal**
 =======
 ### live-https://vidyarthi-pariksha.netlify.app/
